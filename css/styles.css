@@ -1,0 +1,7 @@
+.pager li .active_link{
+    background: cyan !important;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 5px 14px;
+    border-radius: 15px;
+}

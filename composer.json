@@ -1,0 +1,19 @@
+{
+    "name": "anmol/anmol",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+
+    "autoload":{
+       "classmap":[
+             "classes"
+       ]
+    },
+    "authors": [
+        {
+            "name": "Anmol joshi",
+            "email": "anmolj415@gmail.com"
+        }
+    ]
+}
+
